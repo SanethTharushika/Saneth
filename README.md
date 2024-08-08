@@ -1,2 +1,2 @@
-# Saneth
 SCS1303
+STS
